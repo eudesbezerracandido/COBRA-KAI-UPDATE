@@ -32,3 +32,11 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Sequência televisiva da franquia Karatê Kid, Cobra Kai volta ainda em 2021 para a Netflix. A plataforma anunciou em suas redes sociais que a quarta temporada da série chegará em dezembro, ainda sem um dia específico</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] COBRA KAI - 5° TEMPORADA. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P6DAXOWFH6J7DQWHG7TGZISR7PXU4RSH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5uRpoNcBHMgP9AcrkpFnW0rY29m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Trinta e quatro anos depois de Daniel Larusso (Ralph Macchio) e Johnny Lawrence (William Zabka) se enfrentarem, a rivalidade entre os dois ressurge quando Lawrence decide retomar sua vida por meio do infame dojo Cobra Kai. Esgotado e completamente falido, ele vê a oportunidade de treinar jovens socialmente inaptos – como seu vizinho Miguel (Xolo Maridueña) -, ajudando-os a se defender da hostilidade lá fora e transformando-os em verdadeiros campeões. Já Daniel, agora um revendedor de carros de sucesso, tenta superar seus próprios desafios sem a ajuda de seu mentor, o Sr. Miyagi. Ao saber que Lawrence reabriu o centro de artes marciais, Daniel resolve fazer o mesmo e inaugura sua própria escola, na esperança de arruinar os planos de seu adversário. Embora tenham amadurecido de maneiras diferentes, os dois homens ainda são confrontados com os demônios do passado e as frustrações do presente.</info>
+</item>
